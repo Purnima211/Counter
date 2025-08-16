@@ -75,8 +75,7 @@ It was built as a learning project to understand **React hooks**, **state manage
 
 ###### 🎥 Demo Video
 
-<video controls src="Demo Vedio.mp4" title="Demovedio"></video>
-
+"C:\Users\Dell\Videos\Screen Recordings\Demo Vedio.mp4"
 ###### 🔧 Features
 
 ✅ Increment & Decrement counter
