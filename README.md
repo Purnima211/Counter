@@ -18,7 +18,7 @@ It was built as a learning project to understand **React hooks**, **state manage
 
 ## 🔗 Links
 - **GitHub Repository:** [https://github.com/Purnima211/Counter](#)
-- **Live Demo:** [https://counter-7ahb67j0h-purnima211s-projects.vercel.app/](#)
+- **Live Demo:** [counter-virid-phi.vercel.app](#)
 
 ---
 
