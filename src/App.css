@@ -1,0 +1,76 @@
+/* App.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background:#6b705c;
+  margin: 70;
+  padding: 70;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  
+}
+
+.App {
+  width: 100%;
+  max-width: 480px;
+  margin: 40px auto;
+  padding: 20px;
+  text-align: center;
+  border-radius: 12px;
+  background:#cdcccb;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  
+}
+
+h2 {
+  color: #070707;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 3rem;
+  margin: 20px 0;
+  color: #080a0b;
+}
+
+button {
+  padding: 10px 16px;
+  margin: 6px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  background: #f30e52;
+  color: white;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+button:hover:not(:disabled) {
+  background: #c91212;
+}
+
+button:disabled {
+  background: #fa3939;
+  cursor: not-allowed;
+}
+
+label {
+  display: inline-block;
+  margin: 8px;
+  font-size: 14px;
+  color: #444;
+}
+
+input[type="number"] {
+  padding: 6px;
+  margin-left: 6px;
+  width: 70px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+input[type="checkbox"] {
+  margin-right: 6px;
+}
