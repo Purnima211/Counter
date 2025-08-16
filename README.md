@@ -74,8 +74,10 @@ It was built as a learning project to understand **React hooks**, **state manage
 ![alt text](<Screenshot 2025-08-16 151530.png>)
 
 ###### 🎥 Demo Video
+## 🎥 Demo Video
+[Click here to watch](./Demo%20Vedio.mp4)
 
-"C:\Users\Dell\Videos\Screen Recordings\Demo Vedio.mp4"
+
 ###### 🔧 Features
 
 ✅ Increment & Decrement counter
